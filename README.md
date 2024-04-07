@@ -1,1 +1,1 @@
-Face Recognition OpenCV-DL
+Face Recognition OpenCV - Deep Learning
